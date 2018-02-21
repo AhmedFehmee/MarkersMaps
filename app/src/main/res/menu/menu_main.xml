@@ -6,7 +6,7 @@
     <item
         android:id="@+id/action_service"
         android:orderInCategory="100"
-        android:title="Show Sheet" />
+        android:title="Show Address" />
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
