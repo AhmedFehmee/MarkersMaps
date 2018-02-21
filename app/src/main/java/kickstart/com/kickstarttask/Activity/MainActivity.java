@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity implements
             AlertDialog alertDialog = new AlertDialog.Builder(MainActivity.this).create();
             alertDialog.setTitle(R.string.app_name);
             alertDialog.setMessage(Html.fromHtml(MainActivity.this.getString(R.string.info_text) +
-                    " <a href='https://github.com/AhmedFehoO/XDigitalTask'>GitHub.</a>"));
+                    " <a href='https://github.com/AhmedFehoO/KickStart'>GitHub.</a>"));
             alertDialog.setButton(android.support.v7.app.AlertDialog.BUTTON_NEUTRAL, "OK",
                     new DialogInterface.OnClickListener() {
                         public void onClick(DialogInterface dialog, int which) {
