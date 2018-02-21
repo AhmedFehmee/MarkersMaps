@@ -6,11 +6,9 @@
     <item
         android:id="@+id/action_service"
         android:orderInCategory="100"
-        android:title="Show Sheet"
-        android:icon="@drawable/order_tab" />
+        android:title="Show Sheet" />
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
-        android:title="settings"
-        android:icon="@drawable/order_tab" />
+        android:title="settings" />
 </menu>
