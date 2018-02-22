@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Kick Start Task</string>
+    <string name="google_maps_api_key">AIzaSyCMg9TgQv279_hOXAkFjse_MzbTLzZjJMM</string>
     <string name="no_data_found">There is no data</string>
     <string name="info_text">This is a simple app that shows the use of Map with sheet service.
          &lt;br /&gt;&lt;br /&gt;You can find the source code on </string>
